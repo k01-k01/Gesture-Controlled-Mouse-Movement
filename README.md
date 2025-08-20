@@ -31,7 +31,6 @@
 
 ## 📸 截图
 
-视频演示: https://www.bilibili.com/video/BV11SXTYTEJi/?spm_id_from=333.1387.homepage.video_card.click
 
 <div align="center">
 <img src=".readme/img.png" width="800" height="600" />
