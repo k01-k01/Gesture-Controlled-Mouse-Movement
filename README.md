@@ -17,7 +17,9 @@
 - 🎤 支持语音输入
 - 🚀 跨平台支持 (Windows & macOS)
 
-![demo.gif](.readme/demo.gif)
+<div align="center">
+<img src=".readme/demo.gif" width="800" height="600" />
+</div>
 
 ## 📸 截图
 
